@@ -1,0 +1,28 @@
+HASTHAS PRODUCT PAGE SEO DEPLOYMENT CHECKLIST
+
+Pages optimized: 40 individual product pages plus products.html
+
+COMPLETED IN THIS ZIP
+- Unique page titles and meta descriptions for every product page
+- Search-engine indexing directives and large-image preview support
+- Open Graph and Twitter metadata
+- Self-referencing relative canonical links
+- Product, Organization, BreadcrumbList and FAQ structured data
+- Product-specific manufacturer/supplier content for Chennai searches
+- Visible product FAQs targeting application, selection, price and local enquiry questions
+- Stronger image alt text and image preload for the main product image
+- Crawlable category, quotation and related-product internal links
+- Product catalogue ItemList structured data
+- Representative-image wording corrected on all product pages
+
+IMPORTANT AFTER THE WEBSITE IS PUBLISHED
+1. Replace relative canonical URLs with absolute live URLs after the final domain is confirmed.
+2. Generate an XML sitemap using the final domain and submit it in Google Search Console.
+3. Use URL Inspection to request indexing for products.html and important product pages.
+4. Validate structured data with Google's Rich Results Test.
+5. Verify that every image and page returns HTTP 200 and is not blocked by robots.txt.
+6. Add the business to Google Business Profile and keep the business name, address and phone consistent.
+7. Build genuine citations and links from relevant industry directories, customer institutions and social profiles.
+8. Monitor Search Console queries and improve pages based on real impressions and clicks.
+
+SEO cannot guarantee the first position on Google. Rankings also depend on competition, domain authority, backlinks, site speed, mobile experience, business reputation and how well the published page satisfies each search.

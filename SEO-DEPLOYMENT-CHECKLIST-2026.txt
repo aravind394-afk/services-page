@@ -1,0 +1,19 @@
+HASHTHAS SEO DEPLOYMENT CHECKLIST
+
+1. Confirm the final live domain. Replace every occurrence of https://hasthasscientificinstruments.in if a custom domain will be used.
+2. Deploy the complete folder, including _redirects, _headers, robots.txt and sitemap.xml.
+3. Add and verify the final domain property in Google Search Console.
+4. Submit /sitemap.xml in Search Console.
+5. Inspect the home page, products page, top category pages and priority product/blog URLs, then request indexing.
+6. Create or fully complete the Google Business Profile with the same company name, address, phone, website and product categories.
+7. Add genuine customer reviews and current business photos to the Google Business Profile.
+8. Test key pages in PageSpeed Insights after deployment and optimize any hosting-specific issues.
+9. Test structured data with Google Rich Results Test and Schema.org Validator. Product pages without public prices are designed for quotation enquiries and may not qualify for merchant rich results.
+10. Build legitimate citations/backlinks from suppliers, colleges, industry directories, associations and customer/partner websites. Avoid paid spam links.
+11. Track Search Console queries and leads monthly. Expand pages only when real search-query data shows a useful gap.
+12. Keep specifications, images, phone, email and availability accurate. Update sitemap lastmod only when content truly changes.
+
+PRIORITY URL GROUPS
+- Brand/local: home, about, contact, products
+- Commercial: all product pages and category pages
+- Informational: laboratory equipment list, autoclave guides, hot-air oven comparison, incubator comparison, furnace guide, water-bath guide, clean-air comparison

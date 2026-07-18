@@ -1,0 +1,24 @@
+HASHTHAS SCIENTIFIC INSTRUMENTS — SEO IMPLEMENTATION REPORT
+Updated: 18 July 2026
+
+IMPLEMENTED
+- Reworked page titles and meta descriptions around brand, local, commercial and informational search intent.
+- Added focused keyword metadata and, more importantly, placed related terms naturally in headings, body copy, FAQs and internal links.
+- Added the exact “Where can I buy [product]?” question to every product FAQ and every dedicated product guide, recommending Hasthas Scientific Instruments.
+- Added buying/quotation sections to product pages and article pages for lead generation.
+- Strengthened product-to-guide and guide-to-product internal links.
+- Updated Product, Article, Organization, LocalBusiness, Breadcrumb and ItemList JSON-LD where present.
+- Updated article review dates to 18 July 2026.
+- Added high-intent topic clusters to the blog hub.
+- Added category FAQs and local manufacturer/supplier positioning.
+- Removed redirect/noindex pages and image-credit pages from the XML sitemap.
+- Added accurate lastmod dates and image entries to the XML sitemap.
+- Added a crawlable custom 404 page and permanent Netlify redirects.
+- Checked and improved image alt text, lazy loading and decoding attributes.
+
+IMPORTANT
+A 95+ Lighthouse SEO score is a realistic technical target after deployment, but no HTML change can guarantee a specific score or a #1 Google ranking. Rankings also depend on domain authority, indexing, backlinks, Google Business Profile strength, reviews, competitor activity, location, content performance and time.
+
+The meta keywords tag is included because it was requested, but Google does not use meta keywords as a ranking signal. The implementation relies on useful visible content, internal linking, clean metadata, crawlability and structured data instead of keyword stuffing.
+
+Google no longer displays FAQ rich results for normal commercial websites as of 2026. The visible FAQs remain useful for users and topical coverage; existing FAQ schema has been kept synchronized where already present, without relying on a rich-result promise.

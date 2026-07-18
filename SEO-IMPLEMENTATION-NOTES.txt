@@ -1,0 +1,31 @@
+HASTHAS SEO IMPLEMENTATION - 2026-07-17
+
+PUBLIC BASE URL USED
+https://hasthasscientificinstruments.in/
+
+If a custom domain is connected later, replace the base URL above in all HTML files, sitemap.xml and robots.txt, then redeploy. Do not leave Netlify and custom-domain versions accessible without a single preferred canonical domain and 301 redirects.
+
+IMPLEMENTED
+- Static HTML links/cards for all 40 product pages.
+- Absolute canonicals, og:url, social images and normalized structured-data URLs.
+- sitemap.xml and robots.txt.
+- Six indexable product-category landing pages.
+- Honest removal of placeholder model/SKU/MPN values.
+- Netlify 301 redirect rules with corrected destinations.
+- Article author/reviewer/date signals, technical-team page and editorial policy.
+- Optimized homepage category thumbnails.
+- Netlify caching and security headers.
+
+REQUIRES CLIENT-SUPPLIED DATA BEFORE IT CAN BE ADDED SAFELY
+- Genuine public product prices or starting prices for Product Offer rich results.
+- Genuine SKU/MPN/model numbers for the ten products marked Model details on request.
+- Genuine warranty periods, certification scope, calibration details and installation coverage.
+- Named subject-matter expert biographies, if the client wants individual author profiles.
+- Original customer case studies and approved testimonials.
+
+AFTER DEPLOYMENT
+1. Add and verify the property in Google Search Console.
+2. Submit https://hasthasscientificinstruments.in/sitemap.xml
+3. Inspect the home page, six category pages and priority product pages.
+4. Request indexing only after the final domain and redirects are confirmed.
+5. Connect Google Business Profile to the same final website URL.

@@ -1,0 +1,58 @@
+HASTHAS PRODUCT REFERENCE MATCHING REPORT
+=========================================
+
+Total products displayed: 40
+Products with matched specifications: 30
+Brochure products without an exact-name specification match: 10
+
+MATCHED PRODUCTS
+----------------
+- Vertical Autoclave - With Controller -> HSI-101 - Autoclave (Vertical)
+- Vertical Autoclave - Without Control System -> HSI-101 - Autoclave (Vertical)
+- BOD Incubator -> HSI-104 - B.O.D. Incubator
+- Humidity Chamber -> HSI-125 - Humidity Chamber
+- Bacteriological Incubator -> HSI-102 - Bacteriological Incubator (Lab Model)
+- Shaking Incubator -> HSI-127 - Incubator Shaker
+- Muffle Furnace - Standard Model -> HSI-113 - Electrical Furnace Grooved Muffle
+- High Temperature Furnace -> HSI-115 - High Temperature Furnace 1400°C
+- Tubular Furnace -> HSI-114 - Electrical Tubular Furnace 1150°C
+- Hot Air Oven - Lab Model -> HSI-116 - Hot Air Oven (Laboratory Model)
+- Hot Air Oven - Memmert Model -> HSI-117 - Hot Air Oven (Memmert Model)
+- Vacuum Oven -> Contact dealer for specifications
+- Industrial Drier -> HSI-122 - Industrial Tray Drier
+- Deep Freezer - Vertical -> HSI-110 - Deep Freezer (Vertical)
+- Deep Freezer - Horizontal -> HSI-109 - Deep Freezer (Horizontal)
+- Laminar Flow Cabinet - Vertical -> HSI-128 - Laminar Flow Bench (Vertical)
+- Laminar Flow Cabinet - Horizontal -> HSI-128 - Laminar Flow Bench (Horizontal)
+- Fume Hood -> HSI-111 - Fume Exhaust Hood
+- Thermostatic Water Bath -> HSI-139 - Water Bath Lab Type (6 Holes)
+- Digital Water Bath -> HSI-140 - Water Bath Lab Type (12 Holes; digital control optional)
+- Serological Water Bath -> HSI-141 - Serological Water Bath
+- Constant Temperature Bath -> HSI-107 - Constant Temperature Bath
+- Low Temperature Water Bath -> HSI-129 - Low Temperature Bath
+- Hot Plate - Circular -> HSI-123 - Hot Plate Circular
+- Hot Plate - Rectangular -> HSI-124 - Hot Plate Rectangular
+- Magnetic Stirrer -> HSI-130 - Magnetic Stirrer
+- Flocculator -> HSI-112 - Flocculator (Jar Testing Apparatus)
+- Heating Mantle -> HSI-119 - Heating Mantle with Regulator
+- Electric Bunsen Burner -> HSI-105 - Bunsen Burner
+- Water Still - Wall Mounting -> HSI-143 - Water Distillation Unit (Single / Wall Mounting)
+
+IMAGE-ONLY / NO EXACT SPECIFICATION MATCH
+-----------------------------------------
+- Muffle Furnace - Heavy-Duty Model
+- C.O.D. Heating Block
+- Water Distillation Unit - Table Top
+- Autoclave - Horizontal
+- Lab Cement Autoclave
+- CO2 Incubator
+- Hot and Cold Chamber
+- Bio-safety Cabinet
+- Viscosity Bath
+- Curing Tank
+
+Reference files included in assets/docs:
+- assets/docs/hasthas-all-products-brochure.html (WebP pages)
+- assets/docs/hasthas-product-specifications.html (WebP pages)
+
+No specifications were invented for products without a clear matching entry.

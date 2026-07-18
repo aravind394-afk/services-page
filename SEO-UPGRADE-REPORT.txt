@@ -1,0 +1,27 @@
+HASHTHAS SEO UPGRADE REPORT
+Date: 2026-07-18
+
+Implemented
+- Rewrote and shortened all long informational/product search titles.
+- Corrected awkward “What Is…” H1 wording and article grammar.
+- Removed obsolete meta-keywords tags.
+- Added consistent BreadcrumbList structured data to indexable pages.
+- Added primaryImageOfPage and richer image metadata to JSON-LD.
+- Added image dimensions, image type and Twitter image alt metadata.
+- Regenerated sitemap.xml with each page's actual primary image.
+- Added x-default hreflang fallback.
+- Prioritised above-the-fold images and made scripts non-blocking.
+- Made Google Fonts non-render-blocking with a no-JavaScript fallback.
+- Removed the unused 58 KB product database and product dialog from non-catalogue pages.
+- Created lightweight 600x480 product thumbnails for card grids.
+- Added caching rules for CSS and JavaScript plus HSTS security header.
+
+Thumbnail assets
+- Original product-image bytes represented: 5,051,204
+- New card-thumbnail bytes: 772,322
+- Approximate card-image reduction: 84.7%
+
+Notes
+- Product detail and article hero images retain the original full-quality files.
+- No fake price, rating or review schema was added.
+- Search rankings still depend on indexing, competition, authority, backlinks and real user experience.

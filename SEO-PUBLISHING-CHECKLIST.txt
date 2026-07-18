@@ -1,0 +1,15 @@
+HASTHAS HOMEPAGE SEO — PUBLISHING CHECKLIST
+
+The home page has been optimized in this ZIP, but Google indexing and ranking also require correct publishing steps.
+
+1. Upload the complete website to the final HTTPS domain.
+2. Confirm the home page opens at the preferred public URL.
+3. In index.html, replace the relative canonical href="./" with the final absolute home-page URL if the site is not hosted at the domain root.
+4. After the domain is confirmed, create sitemap.xml using absolute public URLs and add this line to robots.txt:
+   Sitemap: https://hasthasscientificinstruments.in/sitemap.xml
+5. Add the website to Google Search Console, verify ownership, submit the sitemap and request indexing for the home page.
+6. Create or update the Google Business Profile using the same business name, Chennai address, phone number and website URL shown on the site.
+7. Test the published URL with Google Rich Results Test, PageSpeed Insights and Search Console URL Inspection.
+8. Keep product descriptions, guides, images and contact details accurate and updated. Avoid copied or keyword-stuffed content.
+
+Important: No code change can guarantee a first-page ranking. Google decides crawling, indexing and ranking based on many site and web signals.

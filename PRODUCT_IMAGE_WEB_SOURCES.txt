@@ -1,0 +1,166 @@
+HASHTHAS PRODUCT IMAGE WEB SOURCES
+=================================
+
+The product photographs in assets/images/products were replaced with representative web-sourced images matched to each equipment name.
+They are illustrative product references; the final Hasthas-supplied model, colour, control panel, capacity and accessories may differ.
+All images were resized, sharpened and exported locally as consistent WebP files for website performance.
+
+Vertical Autoclave – With Controller
+Local file: assets/images/products/autoclave-vertical.webp
+Source: https://5.imimg.com/data5/SELLER/Default/2026/6/613025369/MF/RJ/BF/1871091/fully-automatic-autoclave-1000x1000.jpeg
+
+Vertical Autoclave – Without Control System
+Local file: assets/images/products/autoclave-vertical-no-control.webp
+Source: https://5.imimg.com/data5/SELLER/Default/2026/6/613024343/DG/RK/LL/1871091/hospital-autoclave-sterilizers-500x500.jpeg
+
+BOD Incubator
+Local file: assets/images/products/bod-incubator.webp
+Source: https://5.imimg.com/data5/SELLER/Default/2023/12/368336395/QX/MV/OJ/1871091/laboratory-bod-incubator-500x500.jpg
+
+Humidity Chamber
+Local file: assets/images/products/humidity-chamber.webp
+Source: https://img.nbclab.com//imgs/800/2025/03/31/0929530731341271.jpg
+
+Laboratory / Bacteriological Incubator
+Local file: assets/images/products/lab-incubator.webp
+Source: https://5.imimg.com/data5/SELLER/Default/2024/1/375369516/JC/HG/WY/1871091/laboratory-bacteriological-incubator-500x500.jpg
+
+Shaking Incubator
+Local file: assets/images/products/shaking-incubator.webp
+Source: https://5.imimg.com/data5/SELLER/Default/2024/6/429698765/PA/JP/QF/1871091/orbital-shaking-incubator-500x500.jpg
+
+Muffle Furnace
+Local file: assets/images/products/muffle-furnace.webp
+Source: https://5.imimg.com/data5/SELLER/Default/2024/1/375300087/OJ/RK/RA/1871091/laboratory-electrical-muffle-furnace-500x500.jpg
+
+Heavy-Duty Muffle Furnace
+Local file: assets/images/products/muffle-furnace-heavy-duty.webp
+Source: https://5.imimg.com/data5/SELLER/Default/2024/1/375299332/RI/AP/BQ/1871091/high-temperature-muffle-furnace-1000x1000.jpg
+
+High-Temperature Furnace
+Local file: assets/images/products/high-temperature-furnace.webp
+Source: https://5.imimg.com/data5/SELLER/Default/2024/1/375299332/RI/AP/BQ/1871091/high-temperature-muffle-furnace-1000x1000.jpg
+
+Tubular Furnace
+Local file: assets/images/products/tubular-furnace.webp
+Source: https://www.stericox.com/images/horizontal-tube-furnace.png
+
+Hot-Air Oven
+Local file: assets/images/products/hot-air-oven.webp
+Source: https://5.imimg.com/data5/SELLER/Default/2025/9/542954650/NS/CY/HX/1871091/hot-air-industrial-ovens-1000x1000.jpg
+
+Hot-Air Oven – Memmert Type
+Local file: assets/images/products/hot-air-oven-memmert.webp
+Source: https://5.imimg.com/data5/SELLER/Default/2024/7/431763472/JJ/WN/EY/1871091/laboratory-hot-air-oven-memmert-type-1000x1000.jpg
+
+Vacuum Oven
+Local file: assets/images/products/vacuum-oven.webp
+Source: https://5.imimg.com/data5/SELLER/Default/2024/6/430984985/VN/OD/VD/1871091/vacuum-oven-rectangular-1000x1000.jpg
+
+Industrial Tray Drier
+Local file: assets/images/products/industrial-drier.webp
+Source: https://5.imimg.com/data5/IOS/Default/2022/11/NQ/QS/KY/1871091/product-jpeg-500x500.png
+
+Vertical Deep Freezer
+Local file: assets/images/products/deep-freezer-vertical.webp
+Source: https://www.nsw-india.com/
+
+Horizontal Deep Freezer
+Local file: assets/images/products/deep-freezer-horizontal.webp
+Source: https://www.nsw-india.com/
+
+Vertical Laminar Flow Cabinet
+Local file: assets/images/products/laminar-flow-vertical.webp
+Source: https://www.airomax.in/
+
+Horizontal Laminar Flow Cabinet
+Local file: assets/images/products/laminar-flow-horizontal.webp
+Source: https://www.sharmascientific.com/
+
+Laboratory Fume Hood
+Local file: assets/images/products/fume-hood.webp
+Source: https://5.imimg.com/data5/IOS/Default/2025/12/567505830/CP/HC/XK/1871091/product-jpeg-500x500.jpeg
+
+Thermostatic Water Bath
+Local file: assets/images/products/water-bath-thermostatic.webp
+Source: https://www.sharmascientific.com/
+
+Digital Water Bath
+Local file: assets/images/products/water-bath-digital.webp
+Source: https://www.sharmascientific.com/
+
+Serological Water Bath
+Local file: assets/images/products/serological-water-bath.webp
+Source: https://www.sharmascientific.com/
+
+Constant-Temperature Bath
+Local file: assets/images/products/constant-temperature-bath.webp
+Source: https://www.sharmascientific.com/
+
+Low-Temperature Water Bath
+Local file: assets/images/products/low-temperature-water-bath.webp
+Source: https://www.sharmascientific.com/
+
+Circular Hot Plate
+Local file: assets/images/products/hot-plate-circular.webp
+Source: https://www.sharmascientific.com/
+
+Rectangular Hot Plate
+Local file: assets/images/products/hot-plate-rectangular.webp
+Source: https://www.sharmascientific.com/
+
+COD Heating Block
+Local file: assets/images/products/cod-heating-block.webp
+Source: https://www.sharmascientific.com/
+
+Magnetic Stirrer
+Local file: assets/images/products/magnetic-stirrer.webp
+Source: https://www.sharmascientific.com/
+
+Flocculator / Jar Test Apparatus
+Local file: assets/images/products/flocculator.webp
+Source: https://www.sharmascientific.com/
+
+Heating Mantle
+Local file: assets/images/products/heating-mantle.webp
+Source: https://www.sharmascientific.com/
+
+Bunsen Burner
+Local file: assets/images/products/bunsen-burner.webp
+Source: https://www.sharmascientific.com/
+
+Wall-Mounted Water Distillation Unit
+Local file: assets/images/products/water-distillation-wall.webp
+Source: https://www.labline.co.in/distilled-water-still.html
+
+Table-Top Water Distillation Unit
+Local file: assets/images/products/water-distillation-table.webp
+Source: https://www.shrimadhavinstruments.com/water-distillation-unit.html
+
+Horizontal Autoclave
+Local file: assets/images/products/autoclave-horizontal.webp
+Source: https://www.nsw-india.com/
+
+Laboratory Cement Autoclave
+Local file: assets/images/products/lab-cement-autoclave.webp
+Source: https://sunlabtech.com/cement-testing-lab-equipment/
+
+CO₂ Incubator
+Local file: assets/images/products/co2-incubator.webp
+Source: https://www.nsw-india.com/wp-content/uploads/2019/08/Co2-Incubator.jpg
+
+Hot and Cold / Environmental Chamber
+Local file: assets/images/products/hot-cold-chamber.webp
+Source: https://yatherm.com/wp-content/uploads/2024/05/Environmental-Test-Chamber-300x298.jpg
+
+Biosafety Cabinet
+Local file: assets/images/products/biosafety-cabinet.webp
+Source: https://www.airomax.in/shop/images/products/biosafety.jpg
+
+Viscosity Bath
+Local file: assets/images/products/viscosity-bath.webp
+Source: https://5.imimg.com/data5/SELLER/Default/2023/12/368880374/BO/XT/AN/1871091/kinematic-viscosity-bath-1000x1000.jpg
+
+Accelerated Curing Tank
+Local file: assets/images/products/curing-tank.webp
+Source: https://sunlabtech.com/wp-content/uploads/2018/08/Accelerated-Curing-Tank.jpg
