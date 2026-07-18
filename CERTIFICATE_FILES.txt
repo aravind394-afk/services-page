@@ -1,0 +1,23 @@
+HASTHAS SCIENTIFIC INSTRUMENTS - WEBSITE CERTIFICATES
+
+The About Us page includes the following documents:
+
+1. ISO 9001:2015 Quality Management System Certificate
+   Full file: assets/docs/certificates/iso-9001-certificate.jpg
+
+2. CE Certificate of Compliance
+   Full file: assets/docs/certificates/ce-compliance-certificate.jpg
+
+3. MSME Sustainable (ZED) Certification Scheme Pledge
+   Full file: assets/docs/certificates/zed-certificate.webp
+
+4. Udyam Registration Certificate 2025-2026
+   Full file: assets/docs/certificates/udyam-registration-2025-2026.html (WebP pages)
+
+5. Earlier MSME / Udyam Registration Record
+   Full file: assets/docs/certificates/msme-udyam-registration-2021.webp
+
+Website thumbnails are stored in:
+assets/images/certificates/
+
+The Home page includes a compact certificate preview linking to the full certificate section on the About Us page.

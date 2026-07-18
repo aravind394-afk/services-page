@@ -1,0 +1,10 @@
+HASTHAS CONTACT PAGE UPDATE
+
+- Redesigned contact.html using a clean contact-page structure inspired by the supplied reference.
+- Added Our Office, Quick Help and Send a Message sections.
+- Added enquiry type options: Product Quotation, Technical Help and Service Support.
+- The enquiry form opens WhatsApp with the completed details.
+- Added a Google Maps embed and directions link for the supplied Hasthas location.
+- Added responsive laptop, tablet and mobile styling.
+- Added LocalBusiness structured data for contact/location SEO.
+- Existing products, blog pages, product pages, home page and navigation were retained.

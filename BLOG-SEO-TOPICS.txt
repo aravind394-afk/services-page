@@ -1,0 +1,22 @@
+SEARCH-FOCUSED BLOG TOPICS INCLUDED
+
+The blog is built around broad informational and buyer-intent searches relevant to the Hasthas product range. The topics are presented as commonly searched/high-intent subjects, not as audited exact search-volume rankings.
+
+1. Laboratory equipment list and uses
+2. Autoclave working principle, temperature and pressure
+3. Hot-air oven vs autoclave
+4. Laminar air flow vs biosafety cabinet
+5. BOD incubator vs bacteriological incubator
+6. Muffle furnace working principle and uses
+7. Laboratory safety rules
+8. College laboratory equipment list and setup
+9. Laboratory water bath types, uses and selection
+10. Hot plate vs heating mantle
+11. Fume hood vs laminar flow cabinet
+12. Laboratory deep freezer buying guide
+
+NEW WHAT-IS GUIDES
+- Hot Air Oven: What Is a Hot Air Oven? Its Uses -> what-is-hot-air-oven.html
+- Incubator: What Is an Incubator? Its Uses -> what-is-laboratory-incubator.html
+- Furnace: What Is a Furnace? Its Uses -> what-is-laboratory-furnace.html
+- Autoclave: What Is an Autoclave? Its Uses -> what-is-autoclave.html
