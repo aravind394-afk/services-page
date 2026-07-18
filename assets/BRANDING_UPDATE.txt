@@ -1,0 +1,6 @@
+Hasthas Product Branding Update
+
+- Existing manufacturer logos were covered/replaced on all 40 product images.
+- The supplied Hasthas star logo was applied directly to every product.
+- Product images remain 1200 x 900 pixels in WebP format.
+- All other package files were preserved.
